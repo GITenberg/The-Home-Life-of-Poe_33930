@@ -1,0 +1,28 @@
+_repo: The-Home-Life-of-Poe_33930
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weiss, Susan Archer Talley
+    birthdate: 1835
+    gutenberg_agent_id: '36729'
+    url: http://www.gutenberg.org/2009/agents/36729
+description: ''
+gutenberg_issued: '2010-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33930'
+  lccn: 07042108
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Poe, Edgar Allan, 1809-1849 -- Homes and haunts'
+- !lcc 'PS'
+- !lcsh 'Poe, Edgar Allan, 1809-1849'
+title: The Home Life of Poe
+url: http://www.gutenberg.org/ebooks/33930
